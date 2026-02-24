@@ -56,7 +56,7 @@ Relational database design implemented using primary and foreign keys.
 
 Clone the repository
 
-git clone https://github.com/your-username/job-portal.git
+https://github.com/prathmeshkulakrni/job-portal.git
 
 Move project folder to:
 
@@ -70,10 +70,6 @@ config.php
 
 Start Apache & MySQL from XAMPP
 
-Open in browser:
-
-http://localhost/job-portal
-🎯 Learning Outcomes
 
 Backend development using PHP
 
