@@ -100,6 +100,4 @@ Deployment on live server
 Prathmesh Kulkarni
 College Project – 2026
 
-Tell me what you want next 🚀
 
-Is this conversation helpful so far?
