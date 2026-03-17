@@ -5,7 +5,7 @@ This platform connects Job Seekers and Recruiters, allowing recruiters to post j
 
 🚀 Features
 
-🔐 User Registration & Login (Authentication System)
+🔐 User Registration 
 
 👨‍💼 Recruiter Job Posting
 
