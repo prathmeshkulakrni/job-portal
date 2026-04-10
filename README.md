@@ -93,7 +93,7 @@ Admin dashboard
 
 Pagination & advanced filters
 
-Deployment on live server
+
 
 👨‍💻 Author
 
